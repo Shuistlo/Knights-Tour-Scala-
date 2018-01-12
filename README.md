@@ -1,1 +1,1 @@
-# Knights-Tour-Scala-
+My solution of https://en.wikipedia.org/wiki/Knight%27s_tour in Scala. I also have a distinctly different version in C++ which you can find here https://github.com/Shuistlo/Knights-Tour which is also much more efficient. 
